@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o47G4bkFGE8/sgrScvaKoJp6xb7lvBkvVqkMv6YB2i4wUcdKicGdemJg4hvayZ54BlPss38b3SdoqOhmacPCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shani\\src\\Kafka Labs\\WikiEditStreamConsumer\\WikiEditStreamConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shani\\.nuget\\packages\\confluent.kafka\\2.1.0\\confluent.kafka.2.1.0.nupkg.sha512",
+    "C:\\Users\\shani\\.nuget\\packages\\librdkafka.redist\\2.1.0\\librdkafka.redist.2.1.0.nupkg.sha512",
+    "C:\\Users\\shani\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
